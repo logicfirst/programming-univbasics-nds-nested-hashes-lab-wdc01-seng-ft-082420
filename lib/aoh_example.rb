@@ -17,6 +17,7 @@ def literal_aoh
   # held in the constants
   l_aoh = [
     DON_G = { name:  "Don Gately", occupation: "Live-in Staff" },
+    JOELLE_VD = { name:  "Joelle van Dyne", occupation: "Radio Personality" },
     
     ]
 end
